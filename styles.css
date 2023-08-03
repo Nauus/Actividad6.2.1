@@ -1,6 +1,8 @@
-body{
-    background-color: rgb(255, 255, 165) !important;
+* {
+    font-family: 'Courier New', Courier, monospace;
 }
+
+
 
 .image{
     border: 5px solid green;
