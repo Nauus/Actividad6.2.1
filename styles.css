@@ -2,10 +2,15 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
-
+h1, h2 {
+    text-decoration: underline;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+    color: #007bff;
+    
+}
 
 .image{
-    border: 5px solid green;
+    border: 5px solid #007bff;
     border-radius: 10px;
     height: 400px;
 }
